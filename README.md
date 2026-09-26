@@ -1,4 +1,4 @@
-# Food-Ddetector
+# Food Detector
 
 This app is designed to detect 21 different types of food. It is powered by an AI deep-learning CNN model using PyTorch. It has been trained on a wide range of food images and achieves 80.4% accuracy in its detection.
 
